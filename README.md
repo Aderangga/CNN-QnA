@@ -1,0 +1,3 @@
+#CNN-QnA
+#Deskripsi Aplikasi [CNN-QnA]
+Aplikasi CNN-QNA adalah sebuah aplikasi question answering yang memungkinkan pengguna untuk memperoleh jawaban dari pertanyaan yang diajukan terkait dengan teks yang telah dimasukkan. Dengan kata lain, aplikasi ini dirancang untuk memberikan respon yang relevan berdasarkan teks input. Ketika pengguna mengajukan pertanyaan yang tidak terdapat dalam konteks teks yang telah dimasukkan, aplikasi ini akan memberikan jawaban secara acak sesuai dengan konteks yang ada. Ini membuat aplikasi CNN-QNA menjadi alat yang berguna untuk mendapatkan informasi atau klarifikasi terkait dengan suatu teks melalui proses tanya jawab.
