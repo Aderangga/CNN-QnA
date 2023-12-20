@@ -21,7 +21,7 @@ Dataset yang digunakan adalah dataset NewsQA dari Microsoft dimana isinya berupa
 Dataset NewsQA ini terdiri dari 119.634 pertanyaan dan jawaban yang terdiri dari beberapa jawaban benar dan beberapa pertanyaan yang memang tidak dapat dijawab. Pada NewsQA, jawaban pertanyaan yang benar dapat berupa urutan token apapun dalam teks yang diberikan.
 
 
-### Algoritma DistilBERT
+### Algoritma BERT
 
 Algoritma BERT (Bidirectional Encoder Representations from Transformers) adalah sebuah model bahasa yang dikembangkan oleh Google. BERT menggunakan pendekatan transformer, yang merupakan arsitektur jaringan saraf yang sangat sukses dalam pemrosesan bahasa alami. Ini difokuskan pada pemahaman konteks kata dalam suatu kalimat dengan memperhitungkan hubungan antara kata-kata sebelum dan sesudahnya.
 
