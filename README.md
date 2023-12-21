@@ -20,6 +20,8 @@ Dataset yang digunakan adalah dataset NewsQA dari Microsoft dimana isinya berupa
 
 Dataset NewsQA ini terdiri dari 119.634 pertanyaan dan jawaban yang terdiri dari beberapa jawaban benar dan beberapa pertanyaan yang memang tidak dapat dijawab. Pada NewsQA, jawaban pertanyaan yang benar dapat berupa urutan token apapun dalam teks yang diberikan.
 
+Sumber: https://www.microsoft.com/en-us/download/details.aspx?id=57162
+
 
 ### Algoritma BERT
 
